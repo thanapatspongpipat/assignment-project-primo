@@ -26,5 +26,5 @@ This is a project that implements and test a `merge` function to merge two sorte
    
 3. Run test case:
    ```bash
-      npm test
+      npm run test
    ```
