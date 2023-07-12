@@ -17,7 +17,7 @@ This is a project that implements and test a `merge` function to merge two sorte
 
 ## Testing
 
-1.Open your terminal or command prompt.
+1. Open your terminal or command prompt.
 
 2. Change to the project directory using the cd command:
    ```bash
