@@ -10,11 +10,6 @@ This is a project that implements and test a `merge` function to merge two sorte
       git clone https://github.com/thanapatspongpipat/assignment-project-primo.git
    ```
 
-2. Install the dependencies:
-   ```bash
-      npm install
-   ```
-
 ## Testing
 
 1. Open your terminal or command prompt.
@@ -23,8 +18,13 @@ This is a project that implements and test a `merge` function to merge two sorte
    ```bash
       cd assignment-project-primo
    ```
+
+3. Install the dependencies:
+   ```bash
+      npm install
+   ```
    
-3. Run test case:
+4. Run test case:
    ```bash
       npm run test
    ```
